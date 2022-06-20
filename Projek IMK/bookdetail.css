@@ -1,0 +1,184 @@
+#logo {
+    width: 50px;
+    height: 50px;
+}
+#logoo {
+    position: relative;
+    bottom: 160px;
+    right: 300px;
+}
+#garistiga {
+    position: relative;
+    bottom: 110px;
+    right: 355px;
+}
+#garis {
+    width: 40px;
+    height: 40px;
+}
+#beranda {
+    position: relative;
+    top: -50px;
+}
+#judul {
+    position: relative;
+    top: -195px;
+    right: 230px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+    font-size: larger;
+    color: 1B3967;
+}
+#form1 {
+    border-radius: 15px 15px;
+    position: relative;
+    bottom: 72px;
+    right: 50px;
+    width: 450px;
+    height: 20x;
+}
+#beranda {
+    position: relative;
+    top: -237px;
+    left: 430px;
+    color: black;
+}
+#kategori {
+    position: relative;
+    top: -260px;
+    left: 520px;
+    color: black;
+
+}
+#Trending {
+    position: relative;
+    top: -284px;
+    left: 610px;
+    color: black;
+}
+#profilt {
+    position: relative;
+    top: -30px;
+    left:700px
+
+}
+#profill {
+    width: 40px;
+    height: 40px;
+    border-radius: 40px 40px;
+}
+#b {
+    position: relative;
+    color: black;
+    font-weight: 400;
+
+}
+#k {
+    position: relative;
+    color: black;
+    font-weight: 400;
+}
+#t {
+    position: relative;
+    color: black;
+    font-weight: 400;
+}
+#navbar {
+    position: absolute;
+    bottom: 690px;
+    right: 15px;
+    top: 100px;
+}
+body {
+    position: relative;
+    margin-left: 61vh;
+    top:-15px;
+    background-color: #efefef;
+    overflow-x: hidden;
+
+} 
+#navbar {
+    position: relative;
+    left: 500px;
+    top: 80px;
+}
+#p {
+    width:  200px;
+    height: 300px;
+    position: relative;
+    left: 200px;
+    bottom: 150px;
+}
+#teks {
+    position: relative;
+    bottom: 400px;
+    left: 500px;
+}
+p2{
+    font-weight: 500;
+}
+p3 {
+    position: relative;
+    top: 30px;
+    right: 112px;
+    width: 100px;
+}
+#e {
+    white-space: normal;
+    width: 120px;
+    height: 60px;
+    position: absolute;
+    bottom: 300px;
+    left: 700px;
+    color: black;
+    background-color: white;
+    border-color: black;
+}
+#x {
+    white-space: normal;
+    width: 120px;
+    height: 60px;
+    position: absolute;
+    bottom: 300px;
+    left: 500px;
+    color: black;
+    background-color: white;
+    border-color: black;
+}
+#e:hover {
+    background-color: beige;
+}
+#x:hover {
+    background-color: beige;
+}
+#gg {
+    width: 90px;
+    height: 90px;
+    border-radius: 9px 9px;
+    position: absolute;
+    left: 100px;
+    bottom: 100px;
+}
+p5 {
+    position: absolute;
+    left: 80px;
+    bottom: 200px;
+    font-weight: 600;
+}
+#bintang {
+    width: 100px;
+    height: 30px;
+    position: absolute;
+    left: 220px;
+    bottom: 140px;
+}
+p6 {
+    position: absolute;
+    left: 220px;
+    bottom: 170px;
+}
+p7 {
+    position: absolute;
+    left: 220px;
+    bottom: 110px;
+}

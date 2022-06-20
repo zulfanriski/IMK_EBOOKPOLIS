@@ -1,0 +1,187 @@
+img {
+    height: 100px;
+    width: 100;
+}
+#exampleInputEmail1 {
+    border-radius: 15px 15px;
+    width: 500px;
+}
+#exampleInputPassword1 {
+    border-radius: 15px 15px;
+    width: 500px;
+    
+}
+#tombol {
+    position: relative;
+    left:200px;
+    top:30px;
+    
+}
+img {
+    height: 60px;
+    width: 60px;
+    position: relative;
+    top:180px;
+    left: 160px;
+}
+h1 {
+    position: relative;
+  bottom: 900px;
+    left:-280px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#username {
+    position: relative;
+    right:108px;
+    top:189px;
+    font-weight: 500;
+}
+#email {
+    position: relative;
+    right:108px;
+    top:205px;
+    font-weight: 500;
+}
+#pass {
+    position: relative;
+    right:108px;
+    top:220px;
+    font-weight: 500;
+}
+#Confirm {
+    position: relative;
+    right: 108px;
+    top:230px;
+    font-weight: 500;
+}
+#buton {
+    border-radius: 15px 15px;
+    width: 150px;
+}
+
+#alamat {
+    position: relative;
+    right: 108px;
+    top:245px;
+    font-weight: 500;
+}
+#bawah {
+    position: relative;
+    right: 105px;
+    top: 70px;
+    font-weight: 500;
+}
+
+#gmbr {
+    position: relative;
+    right: 360px;
+top: -40px;
+    
+}
+#dt {
+    border:1px solid white;
+    background-color: white;
+    border-radius: 30px 30px;
+    border-width: 0px 310px 0px 310px;
+    left:-340px;
+    position: relative;
+    top:100px;
+    border-bottom: -100px;
+    }
+#sa {
+    position: relative;
+    width: 130px;
+    height: 130px;
+    border-radius: 100px 100px;
+    
+}
+#logo {
+    width: 50px;
+    height: 50px;
+}
+#logoo {
+    position: relative;
+    bottom: 335px;
+    right: 450px;
+}
+#garistiga {
+    position: relative;
+    bottom: 289px;
+    right: 510px;
+}
+#garis {
+    width: 40px;
+    height: 40px;
+}
+#beranda {
+    position: relative;
+    top: -50px;
+}
+#judul {
+    position: relative;
+    top: -195px;
+    right: 230px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+    font-size: larger;
+    color: 1B3967;
+}
+#form1 {
+    border-radius: 15px 15px;
+    position: relative;
+    top: -70px;
+    right: 50px;
+    width: 450px;
+    height: 20x;
+}
+#beranda {
+    position: relative;
+    top: -237px;
+    left: 430px;
+    color: black;
+}
+#kategori {
+    position: relative;
+    top: -260px;
+    left: 520px;
+    color: black;
+
+}
+#Trending {
+    position: relative;
+    top: -284px;
+    left: 610px;
+    color: black;
+}
+#profilt {
+    position: relative;
+    top: -210px;
+    left:530px
+
+}
+#profill {
+    width: 40px;
+    height: 40px;
+    border-radius: 40px 40px;
+}
+#b {
+    position: relative;
+    color: black;
+    font-weight: 400;
+
+}
+#k {
+    position: relative;
+    color: black;
+    font-weight: 400;
+}
+#t {
+    position: relative;
+    color: black;
+    font-weight: 400;
+}
+#navbar {
+    position: relative;
+    bottom: 690px;
+    right: 15px;
+}

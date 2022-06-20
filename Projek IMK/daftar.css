@@ -1,0 +1,60 @@
+img {
+    height: 100px;
+    width: 100;
+}
+#exampleInputEmail1 {
+    border-radius: 15px 15px;
+    width: 500px;
+}
+#exampleInputPassword1 {
+    border-radius: 15px 15px;
+    width: 500px;
+    
+}
+#tombol {
+    position: relative;
+    left:200px;
+    top:30px;
+    
+}
+img {
+    height: 60px;
+    width: 60px;
+    position: relative;
+    top:180px;
+    left: 160px;
+}
+h1 {
+    position: relative;
+    top:130px;
+    left:230px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#username {
+    position: relative;
+    right:89px;
+    top:167px;
+    font-weight: 500;
+}
+#email {
+    position: relative;
+    right:108px;
+    top:180px;
+    font-weight: 500;
+}
+#pass {
+    position: relative;
+    right:80px;
+    top:195px;
+    font-weight: 500;
+}
+#Confirm {
+    position: relative;
+    right: 140px;
+    top:210px;
+    font-weight: 500;
+}
+#buton {
+    border-radius: 15px 15px;
+    width: 150px;
+}

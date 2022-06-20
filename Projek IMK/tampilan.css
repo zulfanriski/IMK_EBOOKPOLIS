@@ -1,0 +1,56 @@
+img {
+    height: 60px;
+    width: 60px;
+    position: relative;
+    top:60px;
+    left: 160px;
+}
+h1 {
+    position: relative;
+    top:125px;
+    left:230px;
+    font-family: 'Times New Roman', Times, serif;
+}
+body {
+    position: relative;
+    margin-left: 70vh;
+}
+#username {
+    position: relative;
+    right:70px;
+    top:85px;
+    font-weight: 500;
+}
+#password {
+    position: relative;
+    right:69px;
+    top:100px;
+    font-weight: 500;
+}
+#tombol {
+    position: relative;
+    left:210px;
+    top:30px;
+    border-radius: 15px 15px;
+}
+#register {
+    position: relative;
+    left:165px;
+    top:45px;
+}
+#exampleInputEmail1 {
+    border-radius: 15px 15px;
+    width: 500px;
+}
+#exampleInputPassword1 {
+    border-radius: 15px 15px;
+    width: 500px;
+    
+}
+#daftar {
+    color: FCB63F;
+}
+#timbil {
+    border-radius: 15px 15px;
+    width: 100px;
+}
